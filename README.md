@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Chubov
 - 👀 I’m interested in Java , Android and Web development.
-- 🌱 I’m currently learning Java 8, sql,javacript 
+- 🌱 I’m currently learning Java 8, sql, javacript 
 - 📫 Contact with me:
 -  andrejchubov@yandex.ru
 
